@@ -8,7 +8,10 @@
 </p>
 
 ## Cara menjalankan project ini
-### 1. git clone ""
+### 1. git clone "https://github.com/Syahrul0212/tugas-test-chji.git"
 ### 2. composer install 
 ### 3. php artisan serve
 
+## yang perlu di install
+### 1. Xampp
+### 2. Composer
